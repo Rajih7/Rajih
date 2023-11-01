@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Rajih/static/css/main.d6efa8a3.css",
+    "main.js": "/Rajih/static/js/main.9874a520.js",
+    "static/media/SE.jpg": "/Rajih/static/media/SE.bd0e0497af9637f3b73e.jpg",
+    "static/media/JL.jpg": "/Rajih/static/media/JL.d875b24e0ea359154605.jpg",
+    "static/media/html.png": "/Rajih/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/css.png": "/Rajih/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "static/media/pic.jpg": "/Rajih/static/media/pic.db689444fda9d436a7f8.jpg",
+    "static/media/AM.jpg": "/Rajih/static/media/AM.f4e539984b49db90ca20.jpg",
+    "static/media/react.png": "/Rajih/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/Asp.png": "/Rajih/static/media/Asp.f7d9f218a96605424ee8.png",
+    "index.html": "/Rajih/index.html",
+    "main.d6efa8a3.css.map": "/Rajih/static/css/main.d6efa8a3.css.map",
+    "main.9874a520.js.map": "/Rajih/static/js/main.9874a520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6efa8a3.css",
+    "static/js/main.9874a520.js"
+  ]
+}
